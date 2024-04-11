@@ -1,8 +1,3 @@
-<h3 align = "center"> Hi there! I'm Jonel Villaver 👋</h3>
-<h2 align = "center"> and I'm on a journey to become a Fullstack Web Developer! 🧑‍💻</h2>
-
-</br>
-
 ## 🌱 I'm currently learning
 
 - JavaScript
