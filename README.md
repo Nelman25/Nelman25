@@ -3,7 +3,7 @@
 
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/jonel-villaver-70704a2b4/"><img align="left" src="https://raw.githubusercontent.com/Nelman25/Nelman25/main/images/linkedin.png" alt="Jonel Villaver | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/jonel-villaver-70704a2b4/"><img align="left" src="C:\Users\Jonel Villaver\Downloads\linkedin.png" alt="Jonel Villaver | LinkedIn" width="21px"/></a>
 <a href="https://www.facebook.com/profile.php?id=100056438303154"><img align="left" src="https://raw.githubusercontent.com/Nelman25/Nelman25/main/images/facebook.png" alt="Jonel Villaver | Facebook" width="30px"/></a>
 </br>
 
