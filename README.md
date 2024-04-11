@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! I'm Jonel Villaver👋
+### and I'm on a journey to become a Fullstack Web Developer! 🧑‍💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!--
