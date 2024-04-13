@@ -1,9 +1,4 @@
-## 🌱 I'm currently learning
 
-- JavaScript
-- React
-- Java Swing
-  
 ## 💼 Tech stack
 
 #### 📋 Languages
