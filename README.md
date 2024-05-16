@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonel Villaver</h1>
-<h3 align="center">I'm studying Bachelor of Science in Information Technology at National University Manila and I'm aiming to become a Fullstack Developer</h3>
+<h3 align="center">I'm studying Bachelor of Science in Information Technology at National University - Manila and I'm aiming to become a Fullstack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
