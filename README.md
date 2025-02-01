@@ -1,63 +1,63 @@
-<h2 align="center"></h2>
+<h2 align="left"></h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="70" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="56" alt="java logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="56" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="56" alt="typescript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="56" alt="html5 logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="56" alt="css3 logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="70" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="56" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="56" alt="express logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="56" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postman" height="70" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="56" alt="postman logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="56" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="70" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="56" alt="firebase logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="70" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="56" alt="androidstudio logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=redux" height="70" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="56" alt="redux logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="56" alt="tailwindcss logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" alt="bootstrap logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="70" alt="materialui logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="56" alt="materialui logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="70" alt="styledcomponents logo"  />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="56" alt="styledcomponents logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sass" height="70" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="56" alt="sass logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="56" alt="figma logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="56" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="56" alt="github logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vite" height="70" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="56" alt="vite logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="56" alt="vscode logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="70" alt="webstorm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="56" alt="webstorm logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=idea" height="70" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="56" alt="intellijidea logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="70" alt="eclipseide logo"  />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="56" alt="eclipseide logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="70" alt="netlify logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify" height="56" alt="netlify logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="70" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="56" alt="powershell logo"  />
 </div>
 
 ###
